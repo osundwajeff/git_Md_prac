@@ -22,6 +22,12 @@ Focuses on basic **git** tasks and general **Markdown** syntax.
     git commit -m "initial commit"
     ```
 
+- Main branch
+
+    ```bash
+    git branch -m main
+    ```
+
 - Adding remote origin
 
     ```bash
