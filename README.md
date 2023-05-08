@@ -53,3 +53,9 @@ Focuses on basic **git** tasks and general **Markdown** syntax.
     ```bash
     git checkout testing
     ```
+
+- Shorter way of creating and branching
+
+    ```bash
+    git checkout -b testing
+    ```
