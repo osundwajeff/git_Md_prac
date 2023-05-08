@@ -39,3 +39,17 @@ Focuses on basic **git** tasks and general **Markdown** syntax.
     ```bash
     git push -u origin main
     ```
+
+## git branches
+
+- Creating a git branch e.g. testing.
+
+    ```bash
+    git branch testing
+    ```
+
+- Switching to another git branch
+
+    ```bash
+    git checkout testing
+    ```
